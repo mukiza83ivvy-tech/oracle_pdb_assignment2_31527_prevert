@@ -1,4 +1,4 @@
-Use this for your README.md:
+
 
 Oracle PDB Assignment II – Mukiza Prevert
 
@@ -182,4 +182,3 @@ Date: June 30, 2026
 
 ⸻
 
-After pasting this into GitHub, save it as README.md.
